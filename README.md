@@ -4,7 +4,7 @@
 ##  مدرس :‌ میثم منصف [Linkedin](https://www.linkedin.com/in/meisam-monsef-8693b347/) - [Telegram ID](https://t.me/meisamrce/) - [Telegram Channel](https://t.me/seccode) - [Email](mailto:meisamrce@gmail.com)
 
 
-### دانلود فصل اول
+### دانلود فصل اول - HTTP
 
 [01](https://cafenode.ir/OWASP-FREE/01/c01.mp4)
 
@@ -16,7 +16,7 @@
 
 ---
 
-### دانلود فصل دوم
+### دانلود فصل دوم - OS Command Injection
 
 [01](https://cafenode.ir/OWASP-FREE/02/c01.mp4)
 
@@ -32,7 +32,7 @@
 
 ---
 
-### دانلود فصل سوم
+### دانلود فصل سوم - Server Side Template Injection
 
 [01](https://cafenode.ir/OWASP-FREE/03/c01.mp4)
 
@@ -44,7 +44,7 @@
 
 ---
 
-### دانلود فصل چهارم
+### دانلود فصل چهارم - XSS - CSRF
 
 [01](https://cafenode.ir/OWASP-FREE/04/c01.mp4)
 
@@ -56,16 +56,15 @@
 
 ---
 
-### دانلود فصل پنجم
+### دانلود فصل پنجم - Live Target 
 
 [01](https://cafenode.ir/OWASP-FREE/05/c01.mp4)
 
 [02](https://cafenode.ir/OWASP-FREE/05/c02.mp4)
 
-
 ---
 
-### دانلود فصل ششم
+### دانلود فصل ششم - Server Side Request Forgery
 
 [01](https://cafenode.ir/OWASP-FREE/06/c01.mp4)
 
@@ -81,8 +80,8 @@
 
 ---
 
-### دانلود فصل هفتم
-
+### دانلود فصل هفتم - SQL Injection I
+ 
 [01](https://cafenode.ir/OWASP-FREE/07/c01.mp4)
 
 [02](https://cafenode.ir/OWASP-FREE/07/c02.mp4)
@@ -95,13 +94,13 @@
 
 [06](https://cafenode.ir/OWASP-FREE/07/c06.mp4)
 
-[05](https://cafenode.ir/OWASP-FREE/07/c07.mp4)
+[07](https://cafenode.ir/OWASP-FREE/07/c07.mp4)
 
-[06](https://cafenode.ir/OWASP-FREE/07/c08.mp4)
+[08](https://cafenode.ir/OWASP-FREE/07/c08.mp4)
 
 ---
 
-### دانلود فصل هشتم
+### دانلود فصل هشتم - SQL Injection II
 
 [01](https://cafenode.ir/OWASP-FREE/08/c01.mp4)
 
@@ -115,15 +114,11 @@
 
 [06](https://cafenode.ir/OWASP-FREE/08/c06.mp4)
 
-[05](https://cafenode.ir/OWASP-FREE/08/c07.mp4)
-
-[06](https://cafenode.ir/OWASP-FREE/08/c08.mp4)
-
-[06](https://cafenode.ir/OWASP-FREE/08/c09.mp4)
+[07](https://cafenode.ir/OWASP-FREE/08/c07.mp4)
 
 ---
 
-### دانلود فصل نهم
+### دانلود فصل نهم - XML External Entity
 
 [01](https://cafenode.ir/OWASP-FREE/09/c01.mp4)
 
@@ -147,7 +142,7 @@
 
 ---
 
-### دانلود فصل دهم
+### دانلود فصل دهم - Broken Authentication
 
 [01](https://cafenode.ir/OWASP-FREE/10/c01.mp4)
 
@@ -161,7 +156,7 @@
 
 ---
 
-### دانلود فصل یازدهم
+### دانلود فصل یازدهم - API Security
 
 [01](https://cafenode.ir/OWASP-FREE/11/c01.mp4)
 
